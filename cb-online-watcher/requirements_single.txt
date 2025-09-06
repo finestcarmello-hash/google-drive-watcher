@@ -1,0 +1,5 @@
+# Requirements for cb_watcher.py (single file version)
+aiohttp>=3.8.0
+beautifulsoup4>=4.11.0
+python-dotenv>=1.0.0
+lxml>=4.9.0
